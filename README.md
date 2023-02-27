@@ -19,3 +19,17 @@
     
  具体内容参考我写的知乎博客
 https://zhuanlan.zhihu.com/p/86579316
+
+
+
+运行前需要从以下百度网盘链接下载
+
+https://pan.baidu.com/s/1hSFBjQHLhYDw9jPBDNH6pw&shfl=sharepset
+这个路径包含data文件夹下的内容
+business.json
+glove.6B.100d.txt
+review.json
+
+https://pan.baidu.com/s/1gnANAnoGv5GHQKWwAIVE4Q&shfl=sharepset
+这个路径包含data文件夹下的模型文件
+svm_clf.pkl
